@@ -120,6 +120,3 @@ DEPENDENCIES
   sass-rails (= 3.2.5)
   sqlite3 (= 1.3.5)
   uglifier (= 1.2.3)
-
-BUNDLED WITH
-   1.16.1
